@@ -1,0 +1,5 @@
+{
+  "name": "AI Color Palette Generator",
+  "description": "Generate beautiful, context-aware color palettes from text descriptions or images using the Gemini AI. Describe a mood, theme, scene, or upload a photo to create a unique set of colors for your design projects.",
+  "requestFramePermissions": []
+}
