@@ -1,8 +1,6 @@
 
 # AI Color Palette Generator
 
-![AI Color Palette Generator UI](https://storage.googleapis.com/fpl-assets/ai-color-palette-generator-hero.png)
-
 A creative, AI-powered web application that generates beautiful, context-aware color palettes from text descriptions and image analysis. Describe a mood, theme, or scene, upload a photo, or combine both to create a unique set of colors for your design projects.
 
 This project leverages the multimodal capabilities of the Google Gemini AI to understand both text and image inputs, providing nuanced and aesthetically pleasing color schemes.
@@ -25,13 +23,14 @@ This project leverages the multimodal capabilities of the Google Gemini AI to un
 
 Simply type a descriptive prompt and watch the AI bring your words to life in color.
 
-*[Video or GIF demonstration of text-to-color generation will be placed here.]*
+![color-gen-standart](https://github.com/user-attachments/assets/9a9aa529-120d-4c32-96c7-e3a3a482a72a)
+
 
 ### Image-to-Color Generation
 
 Upload any image to extract its core color DNA. Combine it with a prompt for even more creative control.
 
-*[Video or GIF demonstration of image-to-color generation will be placed here.]*
+![color-gen-image](https://github.com/user-attachments/assets/b60901c1-ca4d-4f23-93e8-2258e1d30e46)
 
 ---
 
